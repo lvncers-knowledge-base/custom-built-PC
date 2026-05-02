@@ -18,7 +18,7 @@
 | CPU | Intel Core i9-10900k | 72,000 |
 | CPU グリス | DX-1 | 1000 |
 | CPU クーラー | Noctua NH-U12A | 15000 |
-| GPU | 105000? |
+| GPU | 玄人志向 GALAKURO GAMING RTX 3070 Ti | 105000? |
 | マザーボード | Gigabyte Z490I AORUS ULTRA | 34000 |
 | メモリ（MEM） | panram DDR4-3200 16GB / SP DDR4-3200 16GB |  |
 | ストレージ (SSD/HDD) | 512GB | |
