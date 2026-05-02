@@ -3,6 +3,7 @@
 - CPU
 - CPU グリス
 - CPU クーラー
+- GPU
 - マザーボード
 - メモリ（MEM）
 - ストレージ (SSD/HDD)
@@ -12,17 +13,18 @@
 
 ## 現状
 
-| パーツ | 名称 |
-| - | - |
-| CPU | Intel Core i9-10900k |
-| CPU グリス | |
-| CPU クーラー | Noctua NH-U12A |
-| マザーボード | Gigabyte Z490I AORUS ULTRA |
-| メモリ（MEM） | panram DDR4-3200 16GB / SP DDR4-3200 16GB |
-| ストレージ (SSD/HDD) | 512GB |
-| 電源ユニット (PSU) | CORSAIR RM750e 2025 |
-| ケース | MSI MAG FORGE 110R  |
-| OS | Windows 11 Home |
+| パーツ | 名称 | 購入時金額 |
+| - | - | - |
+| CPU | Intel Core i9-10900k | 72,000 |
+| CPU グリス | DX-1 | 1000 |
+| CPU クーラー | Noctua NH-U12A | 15000 |
+| GPU | 105000? |
+| マザーボード | Gigabyte Z490I AORUS ULTRA | 34000 |
+| メモリ（MEM） | panram DDR4-3200 16GB / SP DDR4-3200 16GB |  |
+| ストレージ (SSD/HDD) | 512GB | |
+| 電源ユニット (PSU) | CORSAIR RM750e 2025 | 11000 |
+| ケース | MSI MAG FORGE 110R  | 5000 |
+| OS | Windows 11 Home |  |
 
 ## CPU一覧（AMD / Intel）
 
